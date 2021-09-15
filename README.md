@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning **React and NodeJS**
 
 <!--
-**MichaelMoura/MichaelMoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,12 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Olá, eu sou a Letícia 👋
-
-- 👩 Atualmente trabalho na **Riachuelo**, como Desenvolvedora Front End.
-- 🌱 Estudando no momento: **React e React Native**.
-- 💙 Interesses: UI/UX 💻  e Games 👾.
 
 ### Linguagens e Frameworks:
 
