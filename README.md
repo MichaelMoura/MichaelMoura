@@ -1,6 +1,6 @@
 ## Hi there, My name is Michael(Mixael) 👋
 
-- 🌱 I’m currently learning **React and NodeJS**
+- 🌱 I’m currently learning **PHP**
 
 <!--
 
